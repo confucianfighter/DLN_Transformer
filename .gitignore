@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+
+.DS_Store
+
+data/*.pt
+data/*.npy
+data/sample_*.txt
+data/transition_report.txt
+data/tiny_shakespeare_sample_tokens.txt
+
+PyTorch-Scratch-Vision-Transformer-ViT/
